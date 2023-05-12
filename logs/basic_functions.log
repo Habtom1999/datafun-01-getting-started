@@ -1,0 +1,19 @@
+2023-05-12 17:03:01,312 =============================================================
+2023-05-12 17:03:01,312 =============================================================
+2023-05-12 17:03:01,312 Today is 2023-05-12 at 05:03 PM
+2023-05-12 17:03:01,328 This file is running on: nt Windows 10
+2023-05-12 17:03:01,328 The Python version is: 3.11.3
+2023-05-12 17:03:01,328 The active conda environment is:  None
+2023-05-12 17:03:01,328 The active pip environment is:    None
+2023-05-12 17:03:01,328 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-12 17:03:01,328 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module-1\datafun-01-getting-started
+2023-05-12 17:03:01,330 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module-1\datafun-01-getting-started
+2023-05-12 17:03:01,330 =============================================================
+2023-05-12 17:03:01,330 =============================================================
+2023-05-12 17:03:01,330 Functions url = https://docs.python.org/3/library/functions.html
+2023-05-12 17:03:01,330 number_list = [1, 2, 3, 4, 5]
+2023-05-12 17:03:01,330 len(number_list) = 5
+2023-05-12 17:03:01,330 min(number_list) = 1
+2023-05-12 17:03:01,330 max(number_list) = 5
+2023-05-12 17:03:20,996 message = Hello & c:/users/habto/appdata/local/programs/python/python311/python.exe "c:/users/habto/desktop/nwms classes/data fundamentals/module-1/datafun-01-getting-started/circle_calc.py"!
+2023-05-12 17:03:30,080 response = y
